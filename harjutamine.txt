@@ -1,3 +1,8 @@
 Git on tasuta ja avatud lähtekoodiga hajus versioonihaldussüsteem, mis on loodud nii väikeste kui suurte projektide haldamiseks.
 
 Git versioonihaldustarkvara saan kasutada nt tarkvaraarenduses nii kodus kui ka koolis.
+
+GitHub ajalugu:
+* Asutati 2007. aastal.
+* Asutajateks: Tom Preston-Werner, Chris Wanstrath, P.J. Hyett ja Scott Chacon
+* Teenus muutus kättesaadavaks 8. veebruar 2008
